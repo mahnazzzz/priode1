@@ -1,0 +1,26 @@
+{
+    "name": "js1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "day1.1.js",
+    "dependencies": {
+      "bl": "^1.2.1",
+      "express": "^4.15.4",
+      "through2-map": "^3.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/PeterBoss/js1.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/PeterBoss/js1/issues"
+    },
+    "homepage": "https://github.com/PeterBoss/js1#readme"
+  }
